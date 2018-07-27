@@ -17,8 +17,11 @@ body {
 	padding: 0 45px 20px;
 }
 
-.press{
+.press {
   display: block;
-  
+}
+
+.footer {
+  align-content: left; 
 }
 /* Write all remaining styles here */
